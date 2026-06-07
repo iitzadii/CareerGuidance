@@ -1,0 +1,110 @@
+[
+  {
+    "id": "jee-main",
+    "name": "JEE Main",
+    "fullName": "Joint Entrance Examination (Main)",
+    "eligibility": "Class 12 passed with Physics, Chemistry and Math (PCM).",
+    "syllabus": "Physics, Chemistry, Mathematics — based on NCERT Class 11 & 12.",
+    "pattern": "Computer-based test, 90 questions, 300 marks, 3 hours.",
+    "website": "https://jeemain.nta.nic.in"
+  },
+  {
+    "id": "jee-advanced",
+    "name": "JEE Advanced",
+    "fullName": "Joint Entrance Examination (Advanced)",
+    "eligibility": "Top ~2.5 lakh JEE Main qualifiers.",
+    "syllabus": "Advanced Physics, Chemistry and Mathematics.",
+    "pattern": "Two papers (3 hours each), MCQ + numerical answer type.",
+    "website": "https://jeeadv.ac.in"
+  },
+  {
+    "id": "bitsat",
+    "name": "BITSAT",
+    "fullName": "BITS Admission Test",
+    "eligibility": "Class 12 with PCM and minimum 75% marks.",
+    "syllabus": "Physics, Chemistry, Math, English Proficiency, Logical Reasoning.",
+    "pattern": "Online test of 130 questions in 3 hours.",
+    "website": "https://www.bitsadmission.com"
+  },
+  {
+    "id": "neet-ug",
+    "name": "NEET UG",
+    "fullName": "National Eligibility cum Entrance Test (Undergraduate)",
+    "eligibility": "Class 12 with Physics, Chemistry, Biology and English.",
+    "syllabus": "Physics, Chemistry, Biology — NCERT Class 11 & 12.",
+    "pattern": "Pen-and-paper test, 200 questions (180 to attempt), 720 marks, 3 hr 20 min.",
+    "website": "https://neet.nta.nic.in"
+  },
+  {
+    "id": "gate",
+    "name": "GATE",
+    "fullName": "Graduate Aptitude Test in Engineering",
+    "eligibility": "Bachelor's degree in Engineering / Technology / Science.",
+    "syllabus": "Engineering subjects, mathematics and general aptitude.",
+    "pattern": "Computer-based test, 65 questions, 100 marks, 3 hours.",
+    "website": "https://gate.iitb.ac.in"
+  },
+  {
+    "id": "ca-foundation",
+    "name": "CA Foundation",
+    "fullName": "Chartered Accountancy Foundation Exam",
+    "eligibility": "Class 12 passed in any stream.",
+    "syllabus": "Accounting, Business Laws, Quantitative Aptitude, Business Economics.",
+    "pattern": "Four papers, 100 marks each (mix of subjective and objective).",
+    "website": "https://www.icai.org"
+  },
+  {
+    "id": "clat",
+    "name": "CLAT",
+    "fullName": "Common Law Admission Test",
+    "eligibility": "Class 12 passed with at least 45% marks.",
+    "syllabus": "English, Current Affairs, Legal Reasoning, Logical Reasoning, Quantitative Techniques.",
+    "pattern": "Offline test, 120 questions in 2 hours.",
+    "website": "https://consortiumofnlus.ac.in"
+  },
+  {
+    "id": "ctet",
+    "name": "CTET",
+    "fullName": "Central Teacher Eligibility Test",
+    "eligibility": "Graduation + B.Ed or equivalent teacher training.",
+    "syllabus": "Child Development & Pedagogy, Language, Math, EVS / Social Studies.",
+    "pattern": "Two papers (Paper I for Class 1–5, Paper II for Class 6–8).",
+    "website": "https://ctet.nic.in"
+  },
+  {
+    "id": "nata",
+    "name": "NATA",
+    "fullName": "National Aptitude Test in Architecture",
+    "eligibility": "Class 12 with Math (or appearing).",
+    "syllabus": "Visual perception, drawing, architectural awareness, math, reasoning.",
+    "pattern": "Online test of 125 marks (MCQ + drawing).",
+    "website": "https://www.nata.in"
+  },
+  {
+    "id": "nmat",
+    "name": "NMAT",
+    "fullName": "NMIMS Management Aptitude Test",
+    "eligibility": "Bachelor's degree with 50% aggregate.",
+    "syllabus": "Language Skills, Quantitative Skills, Logical Reasoning.",
+    "pattern": "Computer-based test, 108 questions in 2 hours.",
+    "website": "https://www.nmat.org"
+  },
+  {
+    "id": "uceed",
+    "name": "UCEED",
+    "fullName": "Undergraduate Common Entrance Exam for Design",
+    "eligibility": "Class 12 from any stream.",
+    "syllabus": "Visualization, observation, design sensibility, environmental awareness.",
+    "pattern": "Computer-based test, 3 hours, MCQ + numerical + sketching.",
+    "website": "https://www.uceed.iitb.ac.in"
+  },
+  {
+    "id": "nid-dat",
+    "name": "NID DAT",
+    "fullName": "NID Design Aptitude Test",
+    "eligibility": "Class 12 from any stream.",
+    "syllabus": "Visual perception, creative thinking, drawing, general awareness.",
+    "pattern": "Prelims (written) + Mains (studio test / interview).",
+    "website": "https://admissions.nid.edu"
+  }
+]
